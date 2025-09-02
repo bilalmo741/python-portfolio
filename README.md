@@ -1,45 +1,21 @@
-# 🐍 Python Portfolio
+# Hi, I'm Bilal 👋
 
-This repository highlights some of my Python projects.  
-They focus on **data analysis, machine learning, and APIs**.
+**Business Administration – Information Systems (2025)**  
+I build practical data and systems projects using Python, SQL, and cloud tools.
 
----
+### What I know and work with in Python
+- **Data Analysis & Visualization:** pandas, matplotlib, NumPy, BigQuery  
+- **Machine Learning & AI:** sklearn (Neural Networks, Decision Trees, KNN, Clustering)  
+- **Automation & ETL:** API requests, CSV/SQLite handling, scheduled scripts  
+- **Text & NLP:** NLTK, stopword removal, vectorization  
+- **Other Skills:** R (basic), HTML/CSS, SQL  
 
-## 📂 Projects
+### Current Learning
+- Exploring AI and advanced machine learning in Python  
+- Continuously improving automation, data pipelines, and analytics skills  
 
-### 1. Kickstarter ML Classifier 🎯
-- **Description:** Predicts Kickstarter campaign success using project descriptions.  
-- **Methods:**  
-  - Text preprocessing with NLTK  
-  - Vectorization with CountVectorizer  
-  - Models: Neural Network, Decision Tree, KNN  
-- **Output:** Model accuracy comparison.  
+### Achievements
+- Google Data Analytics Certificate  
+- Built Python projects for ML classification, clustering, and ETL pipelines  
 
----
-
-### 2. Wholesale Customers Clustering 🛒
-- **Description:** Segments wholesale customers into groups using purchasing patterns.  
-- **Methods:**  
-  - K-Means clustering (tested multiple K values)  
-  - Silhouette score evaluation  
-  - Scatterplot visualizations by user-selected features  
-- **Output:** Cluster insights + visualization.  
-
----
-
-### 3. Earthquake Data Collector 🌍
-- **Description:** Small ETL pipeline that pulls real-time earthquake data from APIs.  
-- **Methods:**  
-  - API requests (JSON)  
-  - Data cleaning + storage (SQLite/CSV)  
-  - Automation with GitHub Actions (scheduled runs)  
-- **Output:** Up-to-date earthquake dataset.  
-
----
-
-## 🚀 How to Run
-Clone the repo and run a project script:
-```bash
-git clone https://github.com/yourusername/python-portfolio.git
-cd python-portfolio
-python kickstarter_classifier.py
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/bilalmosd) • Email: bilalm74881@gmail.com
